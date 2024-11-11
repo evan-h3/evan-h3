@@ -1,30 +1,44 @@
 # Hi, I’m Evan! 👋
 
-I’m a Computer Science and Data Science student at UW-Madison, originally from Canada. My journey in tech is driven by curiosity and a love for problem-solving, especially through AI and machine learning. I’m constantly exploring how technology can make life better and more efficient.
+I’m a Computer Science and Data Science student at UW-Madison with a passion for combining AI, robotics, and software development to create impactful solutions. My journey in tech is fueled by curiosity and a love for problem-solving, especially in areas like machine learning, and AI.
 
 ## 💻 What I’m Working On
 
-- **Orange Opinions** – My latest project, focusing on gathering and analyzing user feedback to improve user engagement.
-- **Food Pantry Analysis** – A data science project with Skunkworks, where I'm helping optimize donation returns using ML models.
-- **Face Detection with OpenCV** – Diving into computer vision by developing a face detection and recognition system.
+- **SteMy** – Co-leading the development of an AI-powered robotic assistant for stem cell culture, focusing on prompt engineering and scheduling automation to enhance research quality and lab efficiency.
+- **People and Robots Lab** – Assisting in developing expressive robots by implementing facial recognition, emotion detection, and interaction recognition systems to enhance human-robot interactions.
+- **Food Pantry Donation Prediction** – Developing machine learning models to optimize donation campaigns for The River Food Pantry, aiming to improve targeting and efficiency.
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, Java, (and getting comfortable with SQL)
-- **Tools & Libraries**: Pandas, Scikit-Learn, Matplotlib, Flask, OpenCV
-- **Web Development**: Basic HTML, CSS, JavaScript, and recently Tailwind CSS!
+- **Languages**: Python, Java, R, HTML, CSS, JavaScript
+- **Developer Tools**: VS Code, Git, IntelliJ, Eclipse, Google Cloud Platform
+- **Libraries & Frameworks**: Pandas, Matplotlib, Scikit-Learn, NumPy, OpenCV, Flask, MAST-ML
+- **Hardware**: Raspberry Pi, Arduino
 
 ## 🎯 Career Goals
 
-I’m aiming to blend my interests in machine learning, data analysis, and software development into a role where I can help build products that impact users' lives positively. Currently, I'm also exploring applied AI and LLM research.
+I’m excited to continue blending my skills in machine learning, robotics, and software development into projects that positively impact user experience and advance automation. Exploring applied AI research and gaining expertise in interactive robotics are my key goals for the near future.
 
 ## 🌱 What I’m Learning
 
-I’m constantly building on my skills:
-- **Machine Learning**: Improving my model-building and feature engineering skills.
-- **Web Development**: Building responsive and user-friendly applications.
-- **Prompt Engineering**: Exploring effective ways to interact with LLMs.
+I’m always expanding my skillset:
+- **Machine Learning**: Deepening my knowledge in model development, feature engineering, and interpretability using tools like SHAP.
+- **Computer Vision**: Enhancing my understanding of OpenCV and developing facial recognition and emotion detection for robotic applications.
+- **Prompt Engineering**: Experimenting with efficient AI prompting techniques within my robotics projects.
 
 ## 📫 Let’s Connect
 
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/e-he)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/e-he)
+- **Email**: [ehe6@wisc.edu](mailto:ehe6@wisc.edu)
+
+## 🎶 Fun Facts
+
+When I’m not coding, you can find me:
+- Strumming guitar tunes and exploring new music
+- Shooting hoops for a casual game of basketball
+- Discovering new foods and trying out unique recipes
+- Reading books on personal growth and creative writing
+
+---
+
+Feel free to reach out if you’d like to collaborate or chat about tech, projects, or anything in between!
