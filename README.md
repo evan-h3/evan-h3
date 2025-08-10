@@ -1,4 +1,4 @@
-# Hi, I’m [Evan! 👋](https://evan-he.me](https://evan-h3.github.io/)
+# Hi, I’m [Evan! 👋][(https://evan-he.me](https://evan-h3.github.io/)]
 
 I’m a **Computer Science** and **Data Science** student at **UW–Madison**, passionate about blending AI, robotics, and software development to build impactful solutions. My journey in tech is fueled by curiosity and a love for problem-solving — especially in areas like **machine learning** and **artificial intelligence**.
 
