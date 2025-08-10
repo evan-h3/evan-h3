@@ -1,8 +1,8 @@
-# Hi, I’m [Evan! 👋][https://evan-h3.github.io/]
+# Hi, I’m [Evan! 👋](https://evan-h3.github.io/)
 
 I’m a **Computer Science** and **Data Science** student at **UW–Madison**, passionate about blending AI, robotics, and software development to build impactful solutions. My journey in tech is fueled by curiosity and a love for problem-solving — especially in areas like **machine learning** and **artificial intelligence**.
 
-Outside of coding and academics, I enjoy singing 🎤, playing guitar 🎸, exploring new foods 🍜, and hitting the gym 🏋️‍♂️ pretty regularly.
+Outside of coding and academics, I enjoy singing, playing guitar, exploring new foods, and going to the gym regularly.
 
 ---
 
