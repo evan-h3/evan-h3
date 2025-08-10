@@ -6,5 +6,5 @@ Outside of coding and academics, I enjoy singing, playing guitar, exploring new 
 
 ---
 
-💬 **Let’s [connect][https://www.linkedin.com/in/e-he/]!**  
+💬 **Let’s [connect](https://www.linkedin.com/in/e-he/)!**  
 Feel free to reach out if you’d like to collaborate or chat about tech, projects, or anything in between.
